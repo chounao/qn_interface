@@ -1,0 +1,36 @@
+consignee_content:
+  consigneeAddress: "\u826F\u6E1A\u8857\u9053\u5C1A\u4EBF\u4E2D\u5FC3\u5C1A\u4EBF\u4E2D\
+    \u5FC31\u5E622"
+  consigneeArea: "\u4F59\u676D\u533A"
+  consigneeCity: "\u676D\u5DDE\u5E02"
+  consigneeMobile: '17826581224'
+  consigneeName: ddd
+  consigneePhone: ''
+  consigneeProvince: "\u6D59\u6C5F\u7701"
+  consigneeShopName: ''
+  consigneeTown: ''
+  consigneeWW: ''
+  consigneeZip: ''
+  id: 1867683
+  isDefault: 1
+  sellerId: 1845709742
+  sellerNick: "\u4F60\u5356\u6211\u4E70oye"
+  updateTime: 1649672369
+sender_content:
+  id: 13055190
+  isDefault: 1
+  sellerId: 1845709742
+  sellerNick: "\u4F60\u5356\u6211\u4E70oye"
+  shippingAddress: "\u4E09\u58A9\u9547\u53E4\u58A9\u8DEF705\u53F7\u6D59\u6E2F\u56FD\
+    \u9645B\u5E62412\u5BA4103500010\u6D4B\u8BD51"
+  shippingArea: "\u897F\u6E56\u533A"
+  shippingCity: "\u676D\u5DDE\u5E02"
+  shippingMobile: '18538049779'
+  shippingName: aaaAVVV
+  shippingPhone: ''
+  shippingProvince: "\u6D59\u6C5F\u7701"
+  shippingShopName: ''
+  shippingTown: ''
+  shippingWW: ''
+  shippingZip: ''
+  updateTime: 1647500378
